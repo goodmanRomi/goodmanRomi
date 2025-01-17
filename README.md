@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile!
 
-I’m Romi, a Computer Science student passionate about learning through hands-on experience. I’m currently expanding my knowledge through online courses and building projects that I can’t wait to share with you! 🎉
+I’m Romi, a Computer Science student passionate about learning through hands-on experience. As I advance in my degree, I’m also taking part in online courses to expand my knowledge of web app development. I’m building projects that I can’t wait to share with you! 🎉
 
 ---
 
